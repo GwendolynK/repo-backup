@@ -1,4 +1,4 @@
-# Back up your all repo to a usb drive
+# Back up all your repos to a USB drive
 
 
 <br>
